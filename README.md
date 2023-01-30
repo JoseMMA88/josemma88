@@ -1,4 +1,4 @@
-# Hello, I am Jose 😁
+# Hello, I am Jose
 <div>
   <a href="https://github.com/josemma88">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemma88&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true"/>
