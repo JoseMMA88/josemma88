@@ -16,5 +16,5 @@
   </div>
 What I'm working with:
   
-- 🖥 I’m currently working on a big bank application since the creation of desing until the full coding.
+- 🖥 I’m currently working on a big bank application.
 - 📚 I’m currently learning Swift / SwiftUI following bootcamps and practicing with my projects.
