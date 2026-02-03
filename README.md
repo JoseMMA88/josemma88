@@ -1,20 +1,49 @@
-# Hello, I am Jose
-<div>
-  <a href="https://github.com/josemma88">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemma88&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemma88&layout=compact&langs_count=16&theme=github_dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Caio-Swift" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-</div>
+# 👋 Hey, I'm Jose
 
-##
+Senior iOS Developer building production apps in regulated environments.  
+Focused on **Swift**, **SwiftUI**, **UIKit**, **architecture**, **testing**, **performance**, and clean maintainable code.
 
-<div> 
-  <a href="https://instagram.com/josemalagon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jose-manuel-malagon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-What I'm working with:
-  
-- 🖥 I’m currently working on Santander Bank application.
-- 📚 I’m currently learning Swift / SwiftUI following bootcamps and practicing with my projects.
+---
+
+## 📈 GitHub stats
+
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemma88&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemma88&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+---
+
+## 🧰 Tech stack
+
+**Mobile**
+- Swift, SwiftUI, UIKit, Objective-C (legacy)
+- Concurrency: async/await, GCD
+- Reactive: Combine (and Combine-like libraries)
+
+**Quality**
+- Unit tests: XCTest / Swift Testing (when applicable)
+- CI/CD: GitHub Actions
+- Code quality: SwiftLint, SonarQube
+
+**Architecture**
+- MVVM, VIPER (legacy), Clean Architecture-ish, SOLID
+
+---
+
+## 🔥 What I'm working on
+
+- iOS apps in production (banking / retail / enterprise)
+- Side projects: experimenting with product thinking, ASO, Mobile Games and shipping end-to-end
+
+---
+
+## 🌍 Links
+
+- **LinkedIn:** https://www.linkedin.com/in/jose-manuel-malagon
+- **Personal website:** https://josemalagon.es
+
+---
+
+## 🤝 Contact
+
+If you want to collaborate or chat about iOS, architecture or indie apps, feel free to reach out.
