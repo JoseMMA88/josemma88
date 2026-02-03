@@ -7,10 +7,9 @@ Focused on **Swift**, **SwiftUI**, **UIKit**, **architecture**, **testing**, **p
 
 ## 📈 GitHub stats
 
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemma88&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josemma88&show_icons=true&theme=github_dark&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemma88&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josemma88&layout=compact&theme=github_dark&langs_count=8&cache_seconds=86400)
 ---
 
 ## 🧰 Tech stack
