@@ -7,9 +7,8 @@ Focused on **Swift**, **SwiftUI**, **UIKit**, **architecture**, **testing**, **p
 
 ## 📈 GitHub stats
 
-| Stats | Top langs |
-| --- | --- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=josemma88&show_icons=true&theme=github_dark&cache_seconds=86400) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemma88&layout=compact&theme=github_dark&langs_count=8&cache_seconds=86400) |
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josemma88&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josemma88&theme=github_dark)
 ---
 
 ## 🔥 What I'm working on
